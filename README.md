@@ -1,5 +1,5 @@
 # Grant Predictions
-In this project, I implemented various machine learning models to solve Kaggle competition for grant prediction.
+In this project, we implemented various machine learning models to solve Kaggle competition for grant prediction. It is a joint with with Daria Eichner.
 
 The best accuracy is achieved with Random Forest Classifier or Gradient Boosting Classifier
 
